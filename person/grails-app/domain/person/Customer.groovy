@@ -6,6 +6,7 @@ class Customer {
 	Integer age1
 	String address
     String email1
+	String contactNo
 	
     static constraints = {
 		
