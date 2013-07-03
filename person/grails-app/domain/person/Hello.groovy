@@ -5,11 +5,11 @@ class Hello {
 	Customer c
 	
 	
-	String email1
+	String email
 
     static constraints = {
 		
-		email1(email:true)
+		email(email:true)
     }
 	
 	
