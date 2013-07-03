@@ -3,8 +3,10 @@ package person
 class Customer {
 	
 	String name1
+	String usn
 	Integer age
 	String address
+	
 
     static constraints = {
 		
