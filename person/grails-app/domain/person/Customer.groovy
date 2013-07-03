@@ -14,8 +14,8 @@ class Customer {
 	String phone
 	
 
-
     String email1
+	String contactNumber
 	
 
     static constraints = {
